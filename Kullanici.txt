@@ -1,0 +1,6 @@
+#Elitler
+Ali    Gökten    ali@email.com
+Eda    Gök    eda@email.com
+Serpil    Üstebay    serpil@deneme.edu.tr
+#Geneller
+Aype    Ak    ayse@email.com
